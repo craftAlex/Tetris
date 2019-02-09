@@ -1,3 +1,4 @@
 # Tetris
 python Tetris
-install pygeme,random,
+/n
+install random, time, pygame, sys
