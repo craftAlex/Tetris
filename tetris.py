@@ -1,5 +1,5 @@
 
-import random, time, pygame，random
+import random, time, pygame, sys
 from pygame.locals import *
 
 FPS = 25
